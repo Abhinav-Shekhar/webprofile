@@ -33,6 +33,7 @@ body{
 .item{
     display: inline;
     padding: 5rem 5rem;
+    width: 25%;
 }
 
 .navbar{
