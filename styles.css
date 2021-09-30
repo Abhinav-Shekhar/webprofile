@@ -52,3 +52,54 @@ body{
 .invImg-header{
     color: #3B82F6;
 }
+
+.container1{
+    text-align: center;
+    background-color: #E5E7EB;
+    padding: 1rem 1rem;
+    font-weight: bold;
+}
+
+.container2{
+    text-align: center;
+    padding: 1rem 1rem;
+    font-weight: bold;
+}
+
+.bloglink{
+    text-decoration: none;
+    border: solid;
+    border-color: #3B82F6;
+    border-radius: 0.5rem;
+    color: #3B82F6;
+    font-weight: bold;
+    padding: 0.5rem 0.5rem;
+}
+
+.container3{
+    font-weight: bold;
+    text-align: center;
+    background-color: #E5E7EB;
+    padding: 1rem 1rem 2rem 1rem;
+    margin-top: 1rem;
+}
+
+.projectlink{
+    text-decoration: none;
+    background-color: #3B82F6;
+    color: white;
+    border-radius: 0.5rem;
+    font-weight: bold;
+    padding: 0.5rem 0.5rem;
+}
+
+.container4{
+    font-weight: bold;
+    background-color: #3B82F6;
+    color: white;
+    padding: 1rem 1rem;
+    margin-bottom: -21px;
+    margin-left: -10px;
+    margin-right: -10px;
+    border-top-right-radius: 2rem;
+}
