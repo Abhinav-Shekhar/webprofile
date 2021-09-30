@@ -10,6 +10,7 @@ body{
     color: white;
     padding: 2rem 2rem;
     border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
     margin-top: -21px;
     margin-left: -10px;
     margin-right: -10px;
@@ -40,7 +41,7 @@ body{
 }
 
 .image1{
-    max-width: 450px;
+    max-width: 35%;
     display: block;
     margin: auto;
 }
@@ -101,5 +102,4 @@ body{
     margin-bottom: -21px;
     margin-left: -10px;
     margin-right: -10px;
-    border-top-right-radius: 2rem;
 }
