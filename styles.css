@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 
-body{
+body {
     font-family: 'Roboto', sans-serif;
 }
 
-.header{
+.header {
     text-align: center;
     background-color: #3B82F6;
     color: white;
@@ -17,7 +17,7 @@ body{
     margin-bottom: 35px;
 }
 
-.primary-link{
+.primary-link {
     background-color: #3B82F6;
     color: white;
     border-radius: 0.5rem;
@@ -25,63 +25,62 @@ body{
     padding: 0.5rem 0.5rem;
 }
 
-.non-bullet{
+.non-bullet {
     list-style: none;
     padding-inline-start: 0px;
 }
 
-.item{
+.item {
     display: inline;
     padding: 5% 10%;
     width: 25%;
 }
 
-.navbar{
+.navbar {
     text-align: center;
     margin-bottom: 35px;
-    overflow: auto;
 }
 
-.navbar a:hover{
+.navbar a:hover {
     background-color: #1D4ED8;
 }
 
 @media screen and (max-width: 650px) {
     .navbar a {
-      float: none;
-      display: block;
+        float: none;
+        display: block;
     }
-  }
+}
 
-.image1{
+.image1 {
     width: 100%;
     max-width: 450px;
     display: block;
     margin: auto;
 }
 
-.Img-header{
+.Img-header {
     text-align: center;
 }
 
-.invImg-header{
+.invImg-header {
     color: #3B82F6;
 }
 
-.container1{
+.container1 {
     text-align: center;
     background-color: #E5E7EB;
     padding: 1rem 1rem;
     font-weight: bold;
 }
 
-.container2{
+.container2 {
     text-align: center;
     padding: 1rem 1rem;
     font-weight: bold;
 }
 
-.bloglink{
+.bloglink {
     text-decoration: none;
     border: solid;
     border-color: #3B82F6;
@@ -91,7 +90,7 @@ body{
     padding: 0.5rem 0.5rem;
 }
 
-.container3{
+.container3 {
     font-weight: bold;
     text-align: center;
     background-color: #E5E7EB;
@@ -99,7 +98,7 @@ body{
     margin-top: 1rem;
 }
 
-.projectlink{
+.projectlink {
     text-decoration: none;
     background-color: #3B82F6;
     color: white;
@@ -108,7 +107,7 @@ body{
     padding: 0.5rem 0.5rem;
 }
 
-.container4{
+.container4 {
     font-weight: bold;
     background-color: #3B82F6;
     color: white;
