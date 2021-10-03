@@ -39,7 +39,19 @@ body{
 .navbar{
     text-align: center;
     margin-bottom: 35px;
+    overflow: auto;
 }
+
+.navbar a:hover{
+    background-color: #1D4ED8;
+}
+
+@media screen and (max-width: 650px) {
+    .navbar a {
+      float: none;
+      display: block;
+    }
+  }
 
 .image1{
     width: 100%;
