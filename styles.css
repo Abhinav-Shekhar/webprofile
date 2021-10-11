@@ -6,8 +6,7 @@ body {
 
 .header {
     text-align: center;
-    background-color: #3B82F6;
-    color: white;
+    background-image: linear-gradient(to right bottom, #5e62d1, #aa49b7, #d42d8c, #e42959, #dc4823);
     padding: 2rem 2rem;
     border-bottom-left-radius: 2rem;
     border-bottom-right-radius: 2rem;
@@ -18,8 +17,9 @@ body {
 }
 
 .primary-link {
-    background-color: #3B82F6;
+    background-color: #d42d8c;
     color: white;
+    font-weight: 900;
     border-radius: 0.5rem;
     text-decoration: none;
     padding: 0.5rem 0.5rem;
@@ -42,7 +42,7 @@ body {
 }
 
 .navbar a:hover {
-    background-color: #1D4ED8;
+    background-color: #e42959;
 }
 
 @media screen and (max-width: 650px) {
@@ -54,7 +54,8 @@ body {
 
 .image1 {
     width: 100%;
-    max-width: 450px;
+    max-width: 300px;
+    border-radius: 100%;
     display: block;
     margin: auto;
 }
@@ -64,12 +65,12 @@ body {
 }
 
 .invImg-header {
-    color: #3B82F6;
+    color: #aa49b7;
 }
 
 .container1 {
     text-align: center;
-    background-color: #E5E7EB;
+    background-color: #374151;
     padding: 1rem 1rem;
     font-weight: bold;
 }
@@ -83,9 +84,9 @@ body {
 .bloglink {
     text-decoration: none;
     border: solid;
-    border-color: #3B82F6;
+    border-color: #E429B6;
     border-radius: 0.5rem;
-    color: #3B82F6;
+    color: #E429B6;
     font-weight: bold;
     padding: 0.5rem 0.5rem;
 }
@@ -93,14 +94,14 @@ body {
 .container3 {
     font-weight: bold;
     text-align: center;
-    background-color: #E5E7EB;
+    background-color: #374151;
     padding: 1rem 1rem 2rem 1rem;
     margin-top: 1rem;
 }
 
 .projectlink {
     text-decoration: none;
-    background-color: #3B82F6;
+    background-color: #E429B6;
     color: white;
     border-radius: 0.5rem;
     font-weight: bold;
@@ -109,7 +110,7 @@ body {
 
 .container4 {
     font-weight: bold;
-    background-color: #3B82F6;
+    background-image: linear-gradient(to left top, #5e62d1, #aa49b7, #d42d8c, #e42959, #dc4823);
     color: white;
     padding: 1rem 1rem;
     margin-bottom: -21px;
