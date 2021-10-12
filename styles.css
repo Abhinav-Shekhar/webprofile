@@ -117,3 +117,17 @@ body {
     margin-left: -10px;
     margin-right: -10px;
 }
+
+.image2{
+    width: 100%;
+    max-width: 450px;
+    display: block;
+    margin: auto;
+    margin-bottom: 5rem;
+}
+
+.container5{
+    max-width: 600px;
+    margin: auto;
+    margin-bottom: 5rem;
+}
