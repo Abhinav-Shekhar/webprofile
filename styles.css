@@ -8,8 +8,6 @@ body {
     text-align: center;
     background-image: linear-gradient(to right bottom, #5e62d1, #aa49b7, #d42d8c, #e42959, #dc4823);
     padding: 2rem 2rem;
-    border-bottom-left-radius: 2rem;
-    border-bottom-right-radius: 2rem;
     margin-top: -21px;
     margin-left: -10px;
     margin-right: -10px;
